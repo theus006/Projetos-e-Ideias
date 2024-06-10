@@ -1,5 +1,5 @@
 #credits: Matheus Costa/2024
-#access my GitHub here:
+#access my GitHub here: https://github.com/theus006/Projetos-e-Ideias/blob/main/Python/GetTemp.py
 
 from requests import get
 import json
