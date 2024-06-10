@@ -30,5 +30,5 @@ def working(getData):
     #2 decimal numbers for fahrenheit
     print("\nThe temperature in your region is", tempGet, "°C or",format(fahrenheit, ".2f"),"°F at", timeGet[11:16])
     
-    
+#executs the program:
 dataInsert()
