@@ -1,3 +1,6 @@
+#credits: Matheus Costa/2024
+#access my GitHub here:
+
 from requests import get
 import json
 
