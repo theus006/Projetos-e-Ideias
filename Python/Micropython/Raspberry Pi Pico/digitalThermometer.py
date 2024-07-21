@@ -1,6 +1,6 @@
 #code by Matheus Oliveira - 2014
 #dallas and oneWire references from: https://randomnerdtutorials.com/raspberry-pi-pico-ds18b20-micropython/
-#Uses RP Pico and IC4511 for 7seg displays
+#Uses RP Pico and two IC4511 for two 7seg displays
 
 from machine import Pin
 from time import sleep
