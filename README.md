@@ -20,7 +20,7 @@ Main Technologies:
 
 Python, Raspberry Pi Pico, Dallas DS18B20 Sensor, 7-segment Displays, and 4511 IC.
 
-Links: For more details on these and other ongoing projects, you can visit my [Notion](https://www.notion.so/Projetos-e-Ideias-65f37b4049974ff7b0f53b1d57472686.).
+Links: For more details on these and other ongoing projects, you can visit my [Notion](https://www.notion.so/Projetos-e-Ideias-65f37b4049974ff7b0f53b1d57472686).
 
 ###########################################################################################
 
@@ -49,4 +49,4 @@ Principais Tecnologias:
 Python, Raspberry Pi Pico, Sensor Dallas DS18B20, Displays de 7 segmentos e CI 4511.
 
 Links:
-Para mais detalhes sobre esses e outros projetos em andamento, você pode visitar meu [Notion](https://www.notion.so/Projetos-e-Ideias-65f37b4049974ff7b0f53b1d57472686.).
+Para mais detalhes sobre esses e outros projetos em andamento, você pode visitar meu [Notion](https://www.notion.so/Projetos-e-Ideias-65f37b4049974ff7b0f53b1d57472686).
