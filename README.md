@@ -1,5 +1,7 @@
 English
-##########################################################################################################################################
+
+#####################################################################################
+
 Welcome to the projects section of my GitHub! Here you will find details of the projects I have developed so far. Currently, I am focused on projects involving Python and hardware integration, such as the Raspberry Pi Pico. Check out an overview of my projects below:
 
 Projects:
@@ -19,9 +21,13 @@ Main Technologies:
 Python, Raspberry Pi Pico, Dallas DS18B20 Sensor, 7-segment Displays, and 4511 IC.
 
 Links: For more details on these and other ongoing projects, you can visit my [Notion](https://www.notion.so/Projetos-e-Ideias-65f37b4049974ff7b0f53b1d57472686.).
-##########################################################################################################################################
+
+###########################################################################################
+
 Português
-##########################################################################################################################################
+
+###########################################################################################
+
 Bem-vindo à seção de projetos do meu GitHub! Aqui você encontrará os detalhes dos projetos que desenvolvi até agora. Atualmente, estou focado em projetos que envolvem Python e a integração com hardware, como a Raspberry Pi Pico. Confira abaixo uma visão geral dos meus projetos:
 
 Projetos:
