@@ -6,16 +6,20 @@ from machine import Pin
 from time import sleep
 import onewire, ds18x20
 
+#declaring output pins according to IC 4511 pinout
+#for the first IC:
 d0a = Pin(13, Pin.OUT)
 d1a = Pin(15, Pin.OUT)
 d2a = Pin(14, Pin.OUT)
 d3a = Pin(12, Pin.OUT)
 
+#for the second IC:
 d0b = Pin(16, Pin.OUT)
 d1b = Pin(11, Pin.OUT)
 d2b = Pin(10, Pin.OUT)
 d3b = Pin(17, Pin.OUT)
 
+#the function that returns the number on the display 1
 def show_display1(num):
     if num == 0:
         d0a.value(0)
@@ -76,7 +80,8 @@ def show_display1(num):
         d1a.value(0)
         d2a.value(0)
         d3a.value(1)
-        
+
+#the function that returns the number on the display 2
 def show_display2(num):
     if num == 0:
         d0b.value(0)
@@ -137,7 +142,8 @@ def show_display2(num):
         d1b.value(0)
         d2b.value(0)
         d3b.value(1)
-        
+
+#temperature sensor code:
 ds_pin = machine.Pin(18)
 ds_sensor = ds18x20.DS18X20(onewire.OneWire(ds_pin))
 
